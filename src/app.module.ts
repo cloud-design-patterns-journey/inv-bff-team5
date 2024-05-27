@@ -7,7 +7,6 @@ import { controllers } from "./controllers";
 import { ServiceModule } from "./services";
 import { ResolverModule } from "./resolvers";
 import { AuthModule } from "./auth/auth.module";
-import { AuthnpxController } from "./authnpx/authnpx.controller";
 import { UsersModule } from "./users/users.module";
 
 const imports = [
